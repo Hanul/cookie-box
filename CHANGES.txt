@@ -1,0 +1,18 @@
+
+CookieBox Changes
+-----------------
+
+2010-03-31 Mr. 하늘
+메소드 추가:
+  createCookie(String,String,int) 
+  createCookie(String,String,String)
+
+2010-03-30 Mr. 하늘
+모듈 생성
+메소드:
+  createCookie(String,String)
+  createCookie(String,String,String,int)
+  createCookie(String,String,String,String,int)
+  exists(String)
+  getCookie(String)
+  getValue(String)
